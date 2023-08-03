@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basic-rules/character-creation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/basic-rules/character-creation/"}
 ---
 
 
