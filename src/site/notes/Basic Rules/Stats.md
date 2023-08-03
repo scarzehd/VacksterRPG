@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basic-rules/stats/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/basic-rules/stats/"}
 ---
 
 Statistics (Stats) are numbers that describe a character's abilities.
