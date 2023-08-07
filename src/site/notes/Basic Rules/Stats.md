@@ -6,7 +6,7 @@ Statistics (Stats) are numbers that describe a character's abilities.
 There are 6 Stats:
 - Might (MIT)
 - Reflex (REF)
-- Soul (SOUL)
+- Vitality (VIT)
 - Intelligence (INT)
 - Willpower (WILL)
 - Empathy (EMP)
