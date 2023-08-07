@@ -17,7 +17,7 @@ Add up the scores in all of your Stats. If the total is less than 16, discard yo
 ## Step 4: Distribute Skill Points #WIP 
 
 ## Example: S. C. Arzehd
-Let's say there's a character named S. C. Arzehd. First, Arzehd's player chooses WILL and INT as his Primary Stats. Next, Arzehd's player rolls 2d10 six times. After discarding the lower roll in each pair, he is left with the following numbers: 7, 10, 8, 4, 3, 9. Arzehd's player distributes these numbers as shown:
+Let's say there's a character named S. C. Arzehd. First, Arzehd's player chooses WILL and INT as his Primary Stats. Next, Arzehd's player rolls 2d10 six times. After discarding the lower roll in each pair, he is left with the following numbers: 7, 10, 8, 4, 3, and 9. Arzehd's player distributes these numbers as shown:
 
 Stat | Number Rolled | Corresponding Stat Score
 :---:|:-------------:|:-----------------------:
